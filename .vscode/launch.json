@@ -15,6 +15,10 @@
                 "LogShowTime": "True",
                 "ETHContractAddress":"0xdAC17F958D2ee523a2206206994597C13D831ec7",
                 "ETHRPCAddress":"https://cloudflare-eth.com",
+                "POLYGONContractAddress":"0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+                "POLYGONRPCAddress":"https://polygon-rpc.com",
+                "TRONContractAddress":"TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+                "TRONRPCAddress":"3.225.171.164:50051",
             },
             "args": []
         }
